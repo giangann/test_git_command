@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 First sentence
 Second sentence
 Third sentence
+=======
+First sentence
+>>>>>>> parent of 60729cd (commit 02)
